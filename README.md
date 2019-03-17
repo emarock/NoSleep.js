@@ -1,3 +1,7 @@
+__Temporary ugly workaround waiting for a proper fix to https://github.com/richtr/NoSleep.js/issues/66 to spare some batteries and early death__
+
+---
+
 # NoSleep.js
 
 Prevent display sleep and enable wake lock in all Android and iOS web browsers.
